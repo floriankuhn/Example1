@@ -1,5 +1,3 @@
 print("hello world");
 
 input("Tell me what date it is");
-
-hhhhh
