@@ -1,0 +1,6 @@
+public class Macroeconomics {
+   public static void main(String[] args) {
+      // Prints "Macroeconomics is such cool stuff!!!" in the terminal window.
+      System.out.println("Macroeconomics is such cool stuff!!!");
+   }
+}
