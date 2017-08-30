@@ -2,5 +2,6 @@ print("HELLO THE WHOLE WORLD");
 
 input("Tell me what date it is");
 
-
+plot(rwalk,type='o',ylab=y)
+print("see you all next Tuesday")
 
